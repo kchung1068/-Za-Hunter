@@ -41,5 +41,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>`Za Hunter would like to access your location?</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>`Za Hunter would like to access your location?</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>`Za Hunter would like to access your location?</string>
 </dict>
 </plist>
