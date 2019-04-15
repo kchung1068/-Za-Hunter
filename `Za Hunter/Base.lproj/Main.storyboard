@@ -10,7 +10,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Find my Za-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="_Za_Hunter" customModuleProvider="target" sceneMemberID="viewController">
@@ -32,7 +32,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <navigationItem key="navigationItem" id="DQT-Rr-CKu">
+                    <navigationItem key="navigationItem" title="Find my Za" id="DQT-Rr-CKu">
                         <barButtonItem key="leftBarButtonItem" style="plain" systemItem="search" id="Nrl-Xc-pd8">
                             <connections>
                                 <action selector="search:" destination="BYZ-38-t0r" id="UfY-qs-v5F"/>
